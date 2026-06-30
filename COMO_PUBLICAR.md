@@ -1,7 +1,7 @@
 # Guia de Vinhos — Terrazza Duomo 21 · como publicar (PWA)
 
 ## Arquivos do app (subir todos juntos no mesmo repositório)
-- `guia-vinhos.html`  → o app
+- `index.html`  → o app
 - `manifest.webmanifest`
 - `sw.js`  → service worker (funciona offline depois da 1ª visita)
 - `icon-192.png`, `icon-512.png`, `icon-180.png`, `favicon-32.png`
